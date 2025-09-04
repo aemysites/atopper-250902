@@ -1,0 +1,230 @@
+{
+  "originUrl": "https://europe.medtronic.com",
+  "aborted": false,
+  "lastCrawled": "https://europe.medtronic.com/",
+  "urls": [
+    {
+      "url": "https://europe.medtronic.com/xd-en/about/contact-us.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/about/contact-us",
+      "id": "3c26fd54cf69673cf3871af3b9c840c35c5a8da1"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions",
+      "id": "7b0f91980ca7dfc54851a8e850ff2b878aefc202"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/materials-management.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/materials-management",
+      "id": "39b8274cf9e51002a8fb9c466ad215691cca94b3"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/or-and-cathlab-managed-services.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/or-and-cathlab-managed-services",
+      "id": "17b2099d80d7e508a71ff2d804d3709fe34474e2"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/success-stories.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/success-stories",
+      "id": "7a12ca68cca058490d8cc4bf2c177deff073e668"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/aarhus-case-study.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/aarhus-case-study",
+      "id": "c54f4ce61e977ba88f5647864eed2bf04935a0d7"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/amiens-case-study.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/amiens-case-study",
+      "id": "a3696131dbac870abe51a136010da97a7417b94d"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/blackpool-hospitals-case-study.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/blackpool-hospitals-case-study",
+      "id": "fbaca1ee883c340f705c476181f0771745bf964b"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/care-model-digitization-sjd-barcelona.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/care-model-digitization-sjd-barcelona",
+      "id": "641c70a7e5de661aba65272df7262ef452b3ac64"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/duna-case-study.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/duna-case-study",
+      "id": "1f83cf2bb0b75655e7b087552b2a9aa744c412e2"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/hospital-clinico-universitario-de-santiago-case-study.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/hospital-clinico-universitario-de-santiago-case-study",
+      "id": "12dd2f726b5c221577ef2587177f90e29ce0dcbc"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/improved-tavi-pathway.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/improved-tavi-pathway",
+      "id": "a38ca5f80d02f0fb7423b17ff3b92cf22f70df7c"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/rigs-cardiolounge-case-study.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/rigs-cardiolounge-case-study",
+      "id": "17b005d9461deb4104f4ffceae50d3138c3b37e5"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/rigs-hospital-case-study.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/rigs-hospital-case-study",
+      "id": "19798bf70ae40935bf7b1f0fa5c23e63cebebbce"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/same-day-discharge.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/same-day-discharge",
+      "id": "fe74d891f28ba8b1a44e57ccfc95772036856360"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/south-manchester-hospital-case-study.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/south-manchester-hospital-case-study",
+      "id": "39f09bdc152fc385fcfcbb5d4c5deb1d9c793aaf"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/st-antonius-sustainability.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/st-antonius-sustainability",
+      "id": "591232b38d39f29217c023b2d6fb9c381fbf7838"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/umm-case-study.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/healthcare-professionals/integrated-health-solutions/success-stories/umm-case-study",
+      "id": "626ca45d7346a17bd078bf0a8a543a0f74f02dfd"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/index.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en",
+      "id": "aaaae8359eaaa295c3edf38587853f0fd037dbe8"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/our-company/history.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/our-company/history",
+      "id": "7cdc52bb667bbe2afcaae959ccf29d3dd4fff652"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/our-company/key-facts.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/our-company/key-facts",
+      "id": "2177dcaa9db382b5d56a40579516279e274fbcf5"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/our-company/leadership.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/our-company/leadership",
+      "id": "747d6d0678235f806edfc25ce7fa091f36bd8e3e"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/our-company/leadership/greg-smith.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/our-company/leadership/greg-smith",
+      "id": "dad62c9198aef39dff54c3102613375048937e04"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/our-company/leadership/ken-washington.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/our-company/leadership/ken-washington",
+      "id": "f6d47a30004fc6ae381ee05a7f0b952e80537dd9"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/our-company/leadership/majid-kaddoumi.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/our-company/leadership/majid-kaddoumi",
+      "id": "572f57b7ac57ee69e5e2de0b883d00e12cfd0cb4"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/our-company/leadership/matt-walter.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/our-company/leadership/matt-walter",
+      "id": "b7e04b626012ca0768e377eb1bf52302caec8983"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/our-impact.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/our-impact",
+      "id": "2501b547b8216defebdee2da7574a2428abd0672"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/our-impact/environmental-action-group.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/our-impact/environmental-action-group",
+      "id": "ae9ab134283653ff960ec632988e35a5dc9aaf14"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/our-impact/equity-in-healthcare.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/our-impact/equity-in-healthcare",
+      "id": "395dd0113092f3654bac0c992ebf9f3876d84351"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/our-impact/health-equity.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/our-impact/health-equity",
+      "id": "1c18d3eb27b77625fd2dd79c2e51f69cbbc90bad"
+    },
+    {
+      "url": "https://europe.medtronic.com/xd-en/our-impact/renewable-energy.html",
+      "source": "CRAWL",
+      "targetPath": "/xd-en/our-impact/renewable-energy",
+      "id": "9553367e8071ee560ff5328ad08159aad6b09bef"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://europe.medtronic.com/",
+      "status": "301 Moved Permanently Redirect: https://europe.medtronic.com/xd-en/index.html"
+    },
+    {
+      "url": "https://europe.medtronic.com/content/medtronic-com/xd-en/about/corporate-governance/board-directors",
+      "status": "302 Moved Temporarily Redirect: https://europe.medtronic.com/xd-en/about/corporate-governance/board-directors"
+    },
+    {
+      "url": "https://europe.medtronic.com/content/dam/medtronic-wide/public/channel-configuration/favicons/site.webmanifest",
+      "status": "Cannot read properties of null (reading 'indexOf')"
+    },
+    {
+      "url": "https://europe.medtronic.com/etc.clientlibs/medtronic-com/clientlibs/clientlib-all/resources/fonts/bae40acb-d6f4-4286-8b5c-a268303f2bcf.woff2",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://europe.medtronic.com/etc.clientlibs/medtronic-com/clientlibs/clientlib-all/resources/fonts/09ab0626-bb45-4650-acc8-0182d693df02.woff2",
+      "status": "content type is not text/html"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":1,\"E_302\":1,\"others\":3}",
+  "error": null
+}

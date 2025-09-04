@@ -1,0 +1,680 @@
+{
+  "originUrl": "https://www.audemarspiguet.com",
+  "aborted": false,
+  "lastCrawled": "https://www.audemarspiguet.com/com/fr/sitemap.xml",
+  "urls": [
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/audemars-piguet-contemporary.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/audemars-piguet-contemporary",
+      "id": "28e9eda01d7b7ead2a4df44d5aa9ff43fef0cd42"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/audemars-piguet-contemporary/art-basel.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/audemars-piguet-contemporary/art-basel",
+      "id": "affad5e9f3aaa2f996046aaf4e6765947443d8a4"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/music.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/music",
+      "id": "55786d05d94c503b56534e0e8d80f7ff7188c28f"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/music/montreux-jazz-festival.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/music/montreux-jazz-festival",
+      "id": "1cc1c1bc4e2d2eb634d149a262e92f9b9d2d20c7"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/origins.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/origins",
+      "id": "2cd5246ca9dc25f5338b5b5b2908e34bd2372f76"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/our-commitments.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/our-commitments",
+      "id": "35c0c116e7212e392bd59173d03009e59a7e5b0b"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire",
+      "id": "07eee5c43fc2eff6a209c2aafe2f45ac949e43b7"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire/astronomy.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire/astronomy",
+      "id": "51fbec46a387b832430d1d4b9e113b2dce917789"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire/chiming.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire/chiming",
+      "id": "597957171f758f2cbd42505000f43fd700937af3"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire/decoration.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire/decoration",
+      "id": "4bb4b7bb0d161b86843bbaf91274ddb9559c16ed"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire/decoration/gemsetting.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire/decoration/gemsetting",
+      "id": "c27305e2b61f0ea1187ee7a534e4016c16f4c595"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire/design.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire/design",
+      "id": "a17098ab7073f7199cf04bb252152a6b8a74047a"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire/design/innovation-is-feminine.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire/design/innovation-is-feminine",
+      "id": "32a787f8232a8d2079b38c539b0127decffb6d51"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire/design/materials.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire/design/materials",
+      "id": "69f893fe835129409a0fff96aca35d2a9f1bfb43"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire/ever-greater-precision.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire/ever-greater-precision",
+      "id": "c6f71d66963e91a1f2a552300a34365497ca319c"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire/forward-thinking-spirit.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire/forward-thinking-spirit",
+      "id": "9f8af0b0ddc8aadec08ba010d6feaccd4fd2e7c0"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire/forward-thinking-spirit/the-rd--saga.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire/forward-thinking-spirit/the-rd-saga",
+      "id": "aa9fba654f4aeaaa2734fe88c35f2ef493448226"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire/grandes-complications.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire/grandes-complications",
+      "id": "bfd0d8dca5c1d672e1bb6c700f135d3245373925"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire/materials.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire/materials",
+      "id": "36c9ce7faa0b71f5248574435b7b9426d4c3bdfb"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire/measuring-time-interval.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire/measuring-time-interval",
+      "id": "77a06e7ec522ca74cde9997babc84c52419d758b"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/savoir-faire/personalization.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/about/savoir-faire/personalization",
+      "id": "4f4d6b24a77416a4bdc113867c2e4f94ddb5beb3"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/collections",
+      "id": "25e9c43f88cac2160bd43fae12435079ae70282e"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections/Classique.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/collections/classique",
+      "id": "3269d297e7b7dca764f8619c052fc24d47b4fe9a"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections/code-11-59-collection.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/collections/code-11-59-collection",
+      "id": "fd4a6806a1c3c8fa747a1bf9d755a55166568c9a"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections/haute-joaillerie.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/collections/haute-joaillerie",
+      "id": "3fd519d3a5ef5ce3431c5760bb4a42347ea09b38"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections/jules-audemars.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/collections/jules-audemars",
+      "id": "6b6f062cbb9ed30fe0ecf88c169b3b6e4c5b6d2e"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections/remaster-collection.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/collections/remaster-collection",
+      "id": "0fd3527cc6f0b96f211e8ae222d826a3f5fccf45"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections/royal-oak-collection.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/collections/royal-oak-collection",
+      "id": "999991b5db2e217a519f43e4b26e21308f77aa48"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections/royal-oak-concept-collection.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/collections/royal-oak-concept-collection",
+      "id": "58f457f157b6b232d908987d1f0927f7245c44dc"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections/royal-oak-offshore-collection.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/collections/royal-oak-offshore-collection",
+      "id": "dfcb830478776c684546a32abe5eeb38da7646ee"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/home.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/home",
+      "id": "2c0afe7950b29584aefe7c1767826f19b3a4ee03"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news",
+      "id": "744e6b29b192447a43e9f64c8d29aa51fa9beca7"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/aleksandra-domanovi--becoming-another.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/aleksandra-domanovi-becoming-another",
+      "id": "1c873b08a1bd7654e89652d63b552ba22837440a"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/alexandra-pirici-attune.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/alexandra-pirici-attune",
+      "id": "e8dad8a941dde3099bb04bf51280a91de0ce296b"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/Alexandra-Pirici-Encyclopedia-of-Relations.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/alexandra-pirici-encyclopedia-of-relations",
+      "id": "b2b4618bd930a802a64475729d0deef9042fc47a"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/alexandra-pirici-the-ren.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/alexandra-pirici-the-ren",
+      "id": "368876bd76ccec88bcc4e978886b29ef82c9f9e3"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/alexandre-joly-wild-constellations.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/alexandre-joly-wild-constellations",
+      "id": "0cab6c910b8d24b34024c9a4cd1d78162400b8f3"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/andreas-angelidakis-center-for-the-critical-appreciation-of-antiquity.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/andreas-angelidakis-center-for-the-critical-appreciation-of-antiquity",
+      "id": "e4d00443163d38853ea2ca8b1c03e6b0c4c4b5e5"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/andreas-angelidakis-emst.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/andreas-angelidakis-emst",
+      "id": "2bdf10024425892e5df28985504eb8ddaad56b2a"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/arin-rungjang-voyage.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/arin-rungjang-voyage",
+      "id": "59fd4333b9e3ff6224275fef0e21b50b09bb1908"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/cao-fei-isle-of-instability-staging-the-era-ucca-.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/cao-fei-isle-of-instability-staging-the-era-ucca",
+      "id": "4036e53a01b6afa33bd362bdf758a6d50267bc61"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/cao-fei-isle-of-instability-supernova-maxxi.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/cao-fei-isle-of-instability-supernova-maxxi",
+      "id": "d885f866cff31107e3b228628d0c26fa393670a4"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/cao-fei-isle-of-instablity.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/cao-fei-isle-of-instablity",
+      "id": "b3b4c8c13466a033da03a3fbb08c8eaba9ab7d17"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/cheng-ran-circadian-rhythm.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/cheng-ran-circadian-rhythm",
+      "id": "59f8b5dc2d21062ecfbef35f08e66c5890e6ea1c"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/dan-holdsworth-continuous-topography.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/dan-holdsworth-continuous-topography",
+      "id": "80567d157370d54464c5735eec3c44033681fdc1"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/dan-holdsworth-vallee-de-joux.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/dan-holdsworth-vallee-de-joux",
+      "id": "20d5031ccc2e5ff94d32e18a15d808b76d79f2b9"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/Dubai-Watch-Week.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/dubai-watch-week",
+      "id": "d81d1c08cb81d46f2211f522ffc72d26bb6d6480"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/Jana-Winderen-Du-Petit-Risoud-aux-profondeurs-du-Lac-de-Joux.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/jana-winderen-du-petit-risoud-aux-profondeurs-du-lac-de-joux",
+      "id": "387eb63853c37d5ed9a86216f807281e294e75fd"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/jana-winderen-the-art-of-listening-under-water.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/jana-winderen-the-art-of-listening-under-water",
+      "id": "e27240344ec50c701aa2e1ea63a920661df39b50"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/kolkoz-curiosity.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/kolkoz-curiosity",
+      "id": "1d3da6949aebe59b4fcaed97cf5d24b4c6a3f497"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/kurt-hentschlager-measure.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/kurt-hentschlager-measure",
+      "id": "edec55e826436a5af18b10ec59fdeee5f2b8883a"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/lars-jan-slow-moving-luminaries.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/lars-jan-slow-moving-luminaries",
+      "id": "3bdd4c00629be417e1aaab93722fedea7a79e61a"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/Meriem-Bennani-Windy-Paris.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/meriem-bennani-windy-paris",
+      "id": "0bef7fba6d297c6bb53b18d2076ba5a440903a0d"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/Meriem-Bennani-Windy.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/meriem-bennani-windy",
+      "id": "827ca1a7444ca8debc28e67b00a8c6f27f8c2b3e"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/natasha-tontey-primate-visions-macaque-macabre.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/natasha-tontey-primate-visions-macaque-macabre",
+      "id": "4e6b86983c17c869341d8a590a12359ed3dbcf73"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/petrit-halilaj-and-alvaro-urbano-barcelona.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/petrit-halilaj-and-alvaro-urbano-barcelona",
+      "id": "15b00082bd6ea44042699f29c1f9e3ea64578d87"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/petrit-halilaj-and-alvaro-urbano.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/petrit-halilaj-and-alvaro-urbano",
+      "id": "67d71e53eb2a88785553d8c4294139502e04bebc"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/phoebe-hui-the-moon-is-leaving-us.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/phoebe-hui-the-moon-is-leaving-us",
+      "id": "dba4b1697978b6fc3fdcb978d05ee9e407701795"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/quayola-promenade.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/quayola-promenade",
+      "id": "28f4ff9e8064d677eccc0ca7d0e284c82fa42770"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/quayola-remains-vallee-de-joux.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/quayola-remains-vallee-de-joux",
+      "id": "4ec1cd1e4253a75112f199fef660f62a8b9ff412"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/robin-meier-synchronicity.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/robin-meier-synchronicity",
+      "id": "145be78e817db6414fb00f9fe52f7750b803844a"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/ryoji-Ikeda-cc.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/ryoji-ikeda-cc",
+      "id": "2480a57cfef3110b7d3f2be84f4b56051da92f58"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/ryoji-ikeda-data-anatomy.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/ryoji-ikeda-data-anatomy",
+      "id": "1b76fbf7ec85aa76a18d558b835c0202e1ef00d0"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/ryoji-ikeda-data-verse-atlanta.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/ryoji-ikeda-data-verse-atlanta",
+      "id": "03b3a74efb712fc7a90ab3da05fa4b355591b100"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/ryoji-ikeda-data-verse-trilogy.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/ryoji-ikeda-data-verse-trilogy",
+      "id": "cf60d144fc09104fabb68b3ef0b1204a51e2d525"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/Sallisa-Rosa.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/sallisa-rosa",
+      "id": "0e256fae9c6f9e8215883959aa4669ac41d3d145"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/semiconductor-halo.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/semiconductor-halo",
+      "id": "7ff27f19e29df6100d87dc7d5e66ad814664483c"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/sun-xun-reconstruction-of-the-universe.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/sun-xun-reconstruction-of-the-universe",
+      "id": "7142f3acaa9998468a2d91451c250d655e99bfdd"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/theo-jansen-strandbeest.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/theo-jansen-strandbeest",
+      "id": "9c7b92a74d31d93644983326785162f0b77295ef"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/theojansen-strandbeest.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/theojansen-strandbeest",
+      "id": "360f5016a80c355e0ec49304913f0e0d5f89c378"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/tomas-saraceno-albedo.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/tomas-saraceno-albedo",
+      "id": "4f8a6f20ff2d0832b89ec4a4f0221ad297e51262"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/yu-ji-ocma.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/yu-ji-ocma",
+      "id": "6256931e11c53a48999fd2ec73b1f5d0cf58267e"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/art/Yu-Ji-Stone-Barnacles-and-Seeds.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/art/yu-ji-stone-barnacles-and-seeds",
+      "id": "38138619b2ff209f3c797b60ff050a1faf94a3c6"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/music/180-episode-1.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/music/180-episode-1",
+      "id": "5fa4121bb253b0aaee07be54c8bd6d1a04ae64b9"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/music/180-episode-2.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/music/180-episode-2",
+      "id": "33a323618ce39bd8b7ca6a1ce67046e7e7edac69"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/music/180-episode-3.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/music/180-episode-3",
+      "id": "0486f9f197417b4cc8ff7ba2e9baabdfbb592792"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/music/180-episode-4.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/music/180-episode-4",
+      "id": "d49adab6c3ec7f0b8c509dfbaebe5cc70d257290"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/music/180-episode-5.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/music/180-episode-5",
+      "id": "a05e658ce0445e1e7d00d2d5be5561f33c12b99e"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/music/audemars-piguet-parallel-experience.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/music/audemars-piguet-parallel-experience",
+      "id": "4e17681d4df8fdbb44cf36bc878128cc362fae5b"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/music/keinemusik.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/music/keinemusik",
+      "id": "edaf25a0e6909602f2584873df90840a1bed30c6"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/music/mark-ronson-brand-ambassador.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/music/mark-ronson-brand-ambassador",
+      "id": "38f5f7876781bbd27497ff9b72a44807219612b6"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/music/syncing-sounds-150.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/music/syncing-sounds-150",
+      "id": "f2fecbf51fcc57d1fa77c8e5295e9b3ad3c0a555"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/music/syncing-sounds-a-new-music-programme-with-mark-ronson.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/music/syncing-sounds-a-new-music-programme-with-mark-ronson",
+      "id": "7f037a772f169f339f8c489c3f5aa4864ccd5e28"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/music/syncing-sounds-live.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/music/syncing-sounds-live",
+      "id": "704fc68f9c4585362edcf30751188baca83690a1"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/music/the-Lyonz-Live-from-Montreux.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/music/the-lyonz-live-from-montreux",
+      "id": "3f3cee0e68c1193d18e8ebf7c061cf899ba365d8"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/ap-talks-about-chiming.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/ap-talks-about-chiming",
+      "id": "65b8b922faf0be95b0794f28933808a2e9c2ba04"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/ap-talks-about-openworking.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/ap-talks-about-openworking",
+      "id": "1c6c5479e6dd453929f498d1d2fd9c75f44e32cd"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/ap-talks-about-remaster01.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/ap-talks-about-remaster01",
+      "id": "ab89b77a39b7d69e1baab49c3e4aa247f04d80e4"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/ap-talks-about-royal-oak-offshore.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/ap-talks-about-royal-oak-offshore",
+      "id": "14e378eea54e99e18cde2ca5a8ee17f9ce0130a0"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/ap-talks-ladies-watches.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/ap-talks-ladies-watches",
+      "id": "d2ad958e417e769f507e780eae1897b63b7f2e7f"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/ap-talks-podcast-royal-oak-offshore.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/ap-talks-podcast-royal-oak-offshore",
+      "id": "a700d6bec0384244dc6af95755d454d9cbfeea21"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/ap-talks-royal-oak-50th-anniversary.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/ap-talks-royal-oak-50th-anniversary",
+      "id": "7e6cb037f6d94ea2333cb5054afa064024ab08c7"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/ap-talks-royal-oak-genesis.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/ap-talks-royal-oak-genesis",
+      "id": "f08a6408985cbfc6a5a96b5b0d48dcdabdb2140f"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/code-11-59-by-audemars-piguet-universelle.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/code-11-59-by-audemars-piguet-universelle",
+      "id": "25bdc6d6ff6d370783a17409c58e4daa25571f9b"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/code-savoir-faire.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/code-savoir-faire",
+      "id": "fc891e84fb409245c9b1d5a7988939780a22140e"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/extraordinary-takes-time.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/extraordinary-takes-time",
+      "id": "dec949445d3b7c0bd42f83beb6a9ef4441c89e26"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/innovative-new-ceramics.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/innovative-new-ceramics",
+      "id": "9fa5dbb8099a9deb53d3c6755a66b244d40fb978"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/remaster-legacy.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/remaster-legacy",
+      "id": "1dcfc50739ae772ccb2fe2fc19d62917f96faf24"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/royal-oak-selfwinding-rainbow.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/royal-oak-selfwinding-rainbow",
+      "id": "bfffe4e1055b6e0898f87f0b819acfad6ceb3abd"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/savoir-faire/universelle-legacy.html",
+      "source": "SITEMAPS",
+      "targetPath": "/com/fr/news/savoir-faire/universelle-legacy",
+      "id": "139d61f3367dc219b598e558c01ff497d2ed2e98"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "sitemaps",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/foundation.html",
+      "status": "301 Moved Permanently Redirect: https://fondationsaudemarspiguet.org/fr"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections/code-11-59.html",
+      "status": "302 Found Redirect: https://www.audemarspiguet.com/com/fr/collections/code-11-59-collection.html"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections/REmaster01.html",
+      "status": "302 Found Redirect: https://www.audemarspiguet.com/com/fr/collections/remaster-collection.html"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections/royal-oak.html",
+      "status": "302 Found Redirect: https://www.audemarspiguet.com/com/fr/collections/royal-oak-collection.html"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections/royal-oak-concept.html",
+      "status": "302 Found Redirect: https://www.audemarspiguet.com/com/fr/collections/royal-oak-concept-collection.html"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections/royal-oak-offshore.html",
+      "status": "302 Found Redirect: https://www.audemarspiguet.com/com/fr/collections/royal-oak-offshore-collection.html"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/about/golf.html",
+      "status": "302 Found Redirect: https://www.audemarspiguet.com/com/fr/home.html"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/golf/harmony-mastery.html",
+      "status": "302 Found Redirect: https://www.audemarspiguet.com/com/fr/home.html"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/golf/manhattan-masters.html",
+      "status": "302 Found Redirect: https://www.audemarspiguet.com/com/fr/home.html"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/golf/midnight-masters.html",
+      "status": "302 Found Redirect: https://www.audemarspiguet.com/com/fr/home.html"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/golf/Golf-Invitationals.html",
+      "status": "302 Found Redirect: https://www.audemarspiguet.com/com/fr/home.html"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/golf/out-of-bounds.html",
+      "status": "302 Found Redirect: https://www.audemarspiguet.com/com/fr/home.html"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/news/golf/international-putting-institute.html",
+      "status": "302 Found Redirect: https://www.audemarspiguet.com/com/fr/home.html"
+    },
+    {
+      "url": "https://www.audemarspiguet.com/com/fr/collections/Millenary.html",
+      "status": "500 Internal Server Error"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":1,\"E_302\":12,\"E_500\":1}",
+  "error": null
+}

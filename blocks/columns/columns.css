@@ -1,3 +1,4 @@
+/* stylelint-disable no-descending-specificity */
 .columns > div {
   display: flex;
   flex-direction: column;
@@ -31,3 +32,155 @@
     order: unset;
   }
 }
+
+
+/* Columns block: enforce true two-column layout, equal height, responsive stacking */
+.columns.columns6 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Desktop: side-by-side columns, equal height */
+@media (width >= 900px) {
+  .columns.columns6 {
+    flex-direction: row;
+    align-items: stretch;
+    min-height: 440px;
+    height: 440px;
+  }
+
+  .columns.columns6 div {
+    flex: 1 1 0;
+    min-width: 0;
+    min-height: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+/* Left column: text block styling */
+.columns.columns6 div:first-of-type {
+  background: var(--background-color);
+  padding: 2.5rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  min-width: 0;
+  min-height: 220px;
+  height: 100%;
+}
+
+@media (width >= 900px) {
+  .columns.columns6 div:first-of-type {
+    padding: 3rem 3rem 3rem 4rem;
+    min-height: 440px;
+    height: 100%;
+  }
+}
+
+/* Right column: image block, edge-to-edge fill */
+.columns.columns6 div:last-of-type {
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-shadow: none;
+  border-radius: 0;
+  background-color: transparent;
+  min-width: 0;
+  min-height: 220px;
+  height: 100%;
+  background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@media (width >= 900px) {
+  .columns.columns6 div:last-of-type {
+    min-height: 440px;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+/* Responsive: stack columns vertically on small screens */
+@media (width <= 899px) {
+  .columns.columns6 div:first-of-type,
+  .columns.columns6 div:last-of-type {
+    width: 100%;
+    min-width: 0;
+    min-height: 0;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    height: auto;
+  }
+
+  .columns.columns6 div:last-of-type {
+    min-height: 200px;
+  }
+}
+
+/* Headings: olive color, bold (uses inherited font) */
+.columns.columns6 h1,
+.columns.columns6 h2,
+.columns.columns6 h3,
+.columns.columns6 h4 {
+  color: #9B8A5A;
+  font-weight: 600;
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+}
+
+/* Bold subheadings or callouts: olive */
+.columns.columns6 strong,
+.columns.columns6 b {
+  color: #9B8A5A;
+  font-weight: 600;
+}
+
+/* Main bullet list: dark text */
+.columns.columns6 ul,
+.columns.columns6 li {
+  color: #222;
+  font-size: 1rem;
+  margin-bottom: 0.35em;
+  line-height: 1.6;
+}
+
+.columns.columns6 ul {
+  margin-top: 0.5em;
+  margin-bottom: 1em;
+  padding-left: 1.1em;
+}
+
+/* Secondary bullet lists (e.g., program details): medium grey */
+.columns.columns6 ul + ul,
+.columns.columns6 ul + ul li {
+  color: #666;
+  font-size: 0.96rem;
+}
+
+/* Footer/credits: olive, all-caps, spacing above */
+.columns.columns6 p:last-child,
+.columns.columns6 ul + p {
+  color: #9B8A5A;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+  letter-spacing: 0.05em;
+  margin-top: 2rem;
+}
+
+/* Links in footer/credits: olive */
+.columns.columns6 p:last-child a,
+.columns.columns6 ul + p a {
+  color: #9B8A5A;
+}
+
+/* Remove border, radius, overlay from image column */

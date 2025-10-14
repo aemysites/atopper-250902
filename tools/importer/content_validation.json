@@ -1,0 +1,384 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://topcounselling.com/m/login?r=%2Fm%2Faccount",
+          "urlHash": "4fd9c1670387bbfb9554f767c0ffde2ece9b08a5",
+          "uuid": "4fd9c167-00-48206730814707abc1028495b03dee2c8ad91a83",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]"
+        },
+        {
+          "url": "https://topcounselling.com/",
+          "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+          "uuid": "8c87b388-00-48206730814707abc1028495b03dee2c8ad91a83",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]"
+        }
+      ],
+      "styles": {
+        "height": 34,
+        "background": "rgb(255, 250, 192) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://topcounselling.com/m/login?r=%2Fm%2Faccount",
+          "urlHash": "4fd9c1670387bbfb9554f767c0ffde2ece9b08a5",
+          "uuid": "4fd9c167-03-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://topcounselling.com/",
+          "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+          "uuid": "8c87b388-21-023b72f460b19f33e424235fe551430b80c36bd2",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[10]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Hero",
+      "cluster": 1,
+      "source": "Hero",
+      "target": "Hero (hero1)",
+      "key": "hero1",
+      "instances": [
+        {
+          "url": "https://topcounselling.com/",
+          "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+          "uuid": "8c87b388-01-3bcfb31d6ce5124cbeb6b4b29aedec07dd55fdf9",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[3]",
+          "section": "section-5"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 2,
+      "source": "Cards",
+      "target": "Cards (cards2)",
+      "key": "cards2",
+      "instances": [
+        {
+          "url": "https://topcounselling.com/",
+          "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+          "uuid": "8c87b388-02-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div_2",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "About Me Group Mindfulness for ADHD Psychotherapy Psychotherapy Group Mindfulness for ADHD Psychotherapy Group Mindfulness for ADHD Group Mindfulness for ADHD Group Mindfulness for ADHD Plan Your Visit Plan Your Visit Group Mindfulness for ADHD Contact Me Plan Your Visit Contact Me"
+                }
+              ],
+              "dissimilarity_score": -0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns block",
+      "target": "Columns block (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://topcounselling.com/",
+          "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+          "uuid": "8c87b388-04-98036228b9bc3f06c787820ef84ec9d507c29f62",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/section[1]/div[1]/div[1]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns block",
+      "target": "Columns block (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://topcounselling.com/",
+          "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+          "uuid": "8c87b388-07-18bd99c1e18ad98bb00f22088c143c9352b0d9ec",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/section[1]/div[1]/div[1]/div[2]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://topcounselling.com/",
+          "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+          "uuid": "8c87b388-08-01f66f54103eecc47431a9070e19e30d938fb38d",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/section[1]/div[1]/div[1]/div[3]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://topcounselling.com/",
+          "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+          "uuid": "8c87b388-10-b6e451f7986e963d4edaeb637512674cfd55a6dc",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/section[1]/div[1]/div[1]/div[5]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 5,
+      "source": "Columns block",
+      "target": "Columns block (columns5)",
+      "key": "columns5",
+      "instances": [
+        {
+          "url": "https://topcounselling.com/",
+          "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+          "uuid": "8c87b388-12-a0a1e91c36858f394d69a388edd8dc5b6b3c9529",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/section[1]/div[1]/div[1]",
+          "section": "section-4"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns",
+      "target": "Columns (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://topcounselling.com/",
+          "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+          "uuid": "8c87b388-20-4e0019e0b4dd516907e7a27467168967848cc537",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[9]",
+          "section": "section-4",
+          "differences": [
+            {
+              "element_id": "html__body__div__div__div__div_9",
+              "differences": [
+                {
+                  "change_type": "equal",
+                  "text": "Mindfulness Awareness Practices (MAPS) for ADHD MAPS is an evidence based program specifically tailored for ADHD brains. With a gradual learning approach and shorter meditation sessions than most mindfulness programs, you will learn about and work on: Cultivating your ability to manage, direct, and sustain your attention Reducing impulsive emotional episodes Relating mindfully to difficult thoughts, experiences and emotions Reducing impulsivity, distractibility, and reactivity Improving your ability to stay in the present moment Relating to yourself with more kindness and self-compassion For more information, contact me at either 613-371-5715 or stop@topcounselling.com 8 weeks, in person Mindfulness at Centrepointe Covered by most extended health insurance, sliding scale available Co-facilitated with Karen Sutherland, MSW, RSW Karen Sutherland, MSW, RSW"
+                }
+              ],
+              "dissimilarity_score": 0.0
+            }
+          ],
+          "similarity_score": 0.0
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 7,
+      "instances": [
+        {
+          "url": "https://topcounselling.com/m/login?r=%2Fm%2Faccount",
+          "urlHash": "4fd9c1670387bbfb9554f767c0ffde2ece9b08a5",
+          "uuid": "4fd9c167-01-3bcfb31d6ce5124cbeb6b4b29aedec07dd55fdf9",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[3]",
+          "section": "section-2"
+        }
+      ],
+      "key": "unknown7"
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://topcounselling.com/m/login?r=%2Fm%2Faccount",
+      "urlHash": "4fd9c1670387bbfb9554f767c0ffde2ece9b08a5",
+      "uuid": "4fd9c167-00-48206730814707abc1028495b03dee2c8ad91a83",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://topcounselling.com/m/login?r=%2Fm%2Faccount",
+      "urlHash": "4fd9c1670387bbfb9554f767c0ffde2ece9b08a5",
+      "uuid": "4fd9c167-02-c50df93bc55dd2cec73191ebc7fe5a4805686aaf",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[2]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://topcounselling.com/m/login?r=%2Fm%2Faccount",
+      "urlHash": "4fd9c1670387bbfb9554f767c0ffde2ece9b08a5",
+      "uuid": "4fd9c167-03-d339c3618e77a6b600a1ce4cfdd16452faea73de",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://topcounselling.com/",
+      "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+      "uuid": "8c87b388-00-48206730814707abc1028495b03dee2c8ad91a83",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/section[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://topcounselling.com/",
+      "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+      "uuid": "8c87b388-03-bf693fc17008f4a8a96eafbca29de5c3fd1fe9e5",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/section[1]/div[1]/h2[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://topcounselling.com/",
+      "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+      "uuid": "8c87b388-05-eebabae50a1761fddef53c9faeba13998848d93c",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/section[1]/div[1]/h2[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://topcounselling.com/",
+      "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+      "uuid": "8c87b388-06-31dfa8fc9041d7386429706c79619ccee6894f25",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/section[1]/div[1]/div[1]/div[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://topcounselling.com/",
+      "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+      "uuid": "8c87b388-09-2b2d6e5e6fa9ac7b5fde6d1e8380922052bc0488",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/section[1]/div[1]/div[1]/div[4]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://topcounselling.com/",
+      "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+      "uuid": "8c87b388-11-78879d6e6f206ae64dc40743526cfb3e083ba030",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/section[1]/div[1]/h2[1]",
+      "section": "section-4"
+    },
+    {
+      "url": "https://topcounselling.com/",
+      "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+      "uuid": "8c87b388-13-f65c2d2fa8c598b72464455f82cbf05fa8865cfb",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]",
+      "section": "section-6"
+    },
+    {
+      "url": "https://topcounselling.com/",
+      "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+      "uuid": "8c87b388-14-f98f99fd07e6c75ab7adc44e0241a0f6663e9a9f",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[8]",
+      "section": "section-6"
+    },
+    {
+      "url": "https://topcounselling.com/",
+      "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+      "uuid": "8c87b388-15-aa91e611040077cb03a4c3aec42bc070551fbe71",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[9]",
+      "section": "section-6"
+    },
+    {
+      "url": "https://topcounselling.com/",
+      "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+      "uuid": "8c87b388-16-f6f0cee7a2d7e7c6ca4e3808b03b152c0ca88cfd",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[10]",
+      "section": "section-6"
+    },
+    {
+      "url": "https://topcounselling.com/",
+      "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+      "uuid": "8c87b388-17-cd7e1e317d27ec0a50aac189b4f7fd879ba03366",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/div[1]/div[1]/span[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[16]",
+      "section": "section-6"
+    },
+    {
+      "url": "https://topcounselling.com/",
+      "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+      "uuid": "8c87b388-18-31cc073d92595bc6cdedaafdaa2002a22450d269",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[7]",
+      "section": "section-7"
+    },
+    {
+      "url": "https://topcounselling.com/",
+      "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+      "uuid": "8c87b388-19-be508dd5e34e8330222dcd6fd9cba09a4c229d84",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[8]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://topcounselling.com/",
+      "urlHash": "8c87b388e5863183ac12173a50555b06f532ea76",
+      "uuid": "8c87b388-21-023b72f460b19f33e424235fe551430b80c36bd2",
+      "xpath": "/html[1]/body[1]/div[1]/div[1]/div[1]/div[10]",
+      "section": "section-3"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://topcounselling.com/",
+      "differences": [
+        {
+          "change_type": "insertion",
+          "text": "[ ](https://main--atopper-250902--aemysites.aem.page/ \" Sue Top Registered Psychotherapist\") [ ](https://main--atopper-250902--aemysites.aem.page/ \" Sue Top Registered Psychotherapist\") Sign In My Account Signed in as: filler@godaddy.com My Account Sign out "
+        },
+        {
+          "change_type": "equal",
+          "text": "Signed in as: filler@godaddy.com Account My Account Sign out Sign In My Account Coming this fall! Mindfulness for ADHD Coming this fall! Mindfulness for ADHD Coming this fall! Mindfulness for ADHD Coming this fall! Mindfulness for ADHD Sue Top Registered Psychotherapist (613) 371-5715 Coming this fall! Mindfulness for ADHD Coming this fall! Mindfulness for ADHD Coming this fall! Mindfulness for ADHD Coming this fall! Mindfulness for ADHD Sue Top Registered Psychotherapist (613) 371-5715 About Me Group Mindfulness for ADHD Psychotherapy Psychotherapy Group Mindfulness for ADHD Psychotherapy Group Mindfulness for ADHD Group Mindfulness for ADHD Group Mindfulness for ADHD Plan Your Visit Plan Your Visit Group Mindfulness for ADHD Contact Me Plan Your Visit Contact Me About Me Who I Am Hi, my name is Sue Top. I am a psychotherapist, wife, and mother of two teens. I think people are awesome, and I love the fact that my job lets me have deep, meaningful conversations all day. I love board games, travel, being outdoors, and laughing. Mostly laughing. What I Do My education and experience enables me to offer individualized care. We will meet and I will cater to your unique needs at your pace. In my work, I meet with people from all walks of life, and every person's issues are slightly different. This can also be said of every person's strengths. This is one of the things that I find so "
+        },
+        {
+          "change_type": "deletion",
+          "text": "interesti Show More My education and experience enables me to offer individualized care. We will meet and I will cater to your unique needs at your pace. In my work, I meet with people from all walks of life, and every person's issues are slightly different. This can also be said of every person's strengths. This is one of the things that I find so "
+        },
+        {
+          "change_type": "equal",
+          "text": "interesting about my job, finding out how you see the world, and how I can help you navigate it more easily, using your own strengths. My heart is a judgement free zone. I provide a safe space for you to explore your struggles, heal from your pain, and move forward. I see it as a privilege to join you on your mental health journey. Show Less How I Do It"
+        },
+        {
+          "change_type": "deletion",
+          "text": " How I Do It Therapy with me has been described as an informal, interactive conversation. I ask lots of questions to help me understand, and I use examples to see if I have the right idea. I use a combination of techniques, gathered over many years of practice and training. Which techniques I use with you will depend on which ones you will benefit fro Show More"
+        },
+        {
+          "change_type": "equal",
+          "text": " Therapy with me has been described as an informal, interactive conversation. I ask lots of questions to help me understand, and I use examples to see if I have the right idea. I use a combination of techniques, gathered over many years of practice and training. Which techniques I use with you will depend on which ones you will benefit from the most, and that will become evident to me as we get to know each other over the first few sessions. Helping you learn to identify and express feelings with someone who is compassionate and non-judgmental is a big part of my work. Often, just the act of doing that can be healing. Show Less Psychotherapy Emotion Focused Therapy (EFT) Emotion Focused Therapy, or EFT, brings our attention to what emotion is being felt at the moment. My role in this approach is to create a safe space in which to explore feelings, to help you identify feelings, and to teach you ways to tolerate feelings so that you do not feel overwhelmed. Interpersonal Therapy Interpersonal Therapy focuses on both the present relationships that we have with other people in our life as well as the past relationships that have shaped us. My role as a therapist in this approach is to provide a safe space within which to dig into the pain of past and present relationships, with the goal of processing the thoughts and feelings and putting the pain to rest. It is also to be authentic and honest about how I experience you, and how it affects me. This gives you the opportunity to reflect on how you effect other people. It is also important that you feel comfortable doing the same with me, to be able to clearly state your needs and concerns. Gestalt Therapy Gestalt therapy focuses on seeing each person as a whole being, rather than a bunch of different parts that do not interconnect. My role in this approach is to bring your attention to things you may not be noticing about yourself that may give us information. For instance, that your foot is tapping the entire time that you are telling me that you are very relaxed today. Cognitive Behavioural Therapy (CBT) and Self Compassion Cognitive Behavioural Therapy, or CBT, is focused on looking at thoughts and how we can help ourselves by changing how we think. My role as a therapist in this approach is to gently point out thinking errors or self-critical thoughts, and to help you embrace thoughts that are more encouraging and compassionate. Mindfulness Mindfulness refers to the act of bringing our attention to what we are experiencing at that moment. Being mindful throughout the day can significantly decrease anxiety. My role in this approach is to teach you methods of becoming more mindful, and to direct you to resources that you can explore on your own at home. Plan Your Visit Getting to my office Accessibility: My office is in an office building, there is an elevator. Parking: There is usually plenty of paid parking spots available in the parking lot. Bus: The office is close to Billings Bridge, which is on the transit way. When you arrive, please let yourself in to the waiting room. Fees My psychotherapy fee is $165, the sessions are 50 minutes in length. Forms of Payment: I accept cash, credit, debit, cheque, and etransfer. Insurance: Many major insurance companies will reimburse clients for my receipts. Please check that they cover a \"Psychotherapist.\" Telephone Session Please ensure that you input the telephone number for our session when you book your appointment online. I will call you at the time of our appointment. Video Session Video sessions are run through OWL Practice, a Canadian Mental Health Administration provider. You will need a good internet connection, and a camera and microphone on your device. Each person has their own username and password. Computers with Federal Government firewalls will not work with this program. "
+        },
+        {
+          "change_type": "deletion",
+          "text": "Contact Me Send Message Name Email* Send This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Address 2211 Riverside Drive, #404, Ottawa, ON, K1H 7X5 (613) 371-5715 Hours Open today 11:15 a.m. \u2013 05:00 p.m. \u2190 Move left \u2192 Move right \u2191 Move up \u2193 Move down + Zoom in - Zoom out Home Jump left by 75% End Jump right by 75% Page Up Jump up by 75% Page Down Jump down by 75% Keyboard shortcuts Map Data Map data \u00a92025 Google Map data \u00a92025 Google 500 m Click to toggle between metric and imperial units Terms Report a map error Get directions "
+        },
+        {
+          "change_type": "equal",
+          "text": "Social Privacy and Confidentiality Policy Personal health information Personal health information is identifying information about a person. It can be in verbal, written or in electronic format, and does not necessarily include the person\u2019s name. If a person can be recognized, the information is considered personal health information, and is subject to the Personal Health Information Protection Act. Professional Practice Standards for Registered Psychotherapists A member does not collect or use information about a client without the informed consent of the client or the client\u2019s authorized representative, nor does the member disclose information about a client to anyone, including other health professionals, without the written informed consent of the client or the client\u2019s authorized representative, except where disclosure is permitted or required by law. In obtaining informed consent from a client to disclose his/her information to any third party, the member must explain what information will be disclosed, to whom, the reasons for the disclosure, and the time-frame within which disclosure is to be made. The member should report back to the client following the disclosure. Limits to Confidentiality In law, there are a limited number of circumstances where disclosure of personal health information is required without consent. Notable limits to confidentiality include: 1. where the member believes on reasonable grounds that disclosure is necessary to eliminate or reduce significant, imminent risk of serious bodily harm (includes physical or psychological harm) to the client or anyone else, e.g. suicide, homicide; 2. where disclosure is required under the Child and Family Services Act, 1990 for example, where the member has reasonable grounds to suspect that a child is in need of protection due to physical harm, neglect or sexual abuse by a person having charge of the child; 3. where necessary for particular legal proceedings (e.g. when the member is subpoenaed); 4. to facilitate an investigation or inspection if authorized by warrant or by any provincial or federal law (e.g. a criminal investigation against the member, his/her staff, or a client); 5. for the purpose of contacting a relative, friend or potential substitute decision-maker of the individual, if the individual is injured, incapacitated or ill and unable to give consent personally; and 6. to a college for the purpose of administration or enforcement of the Regulated Health Professions Act, 1991 (e.g. providing information about your client to the College if a complaint has been made against you, assessment of the member\u2019s practice as part of the Quality Assurance Program; mandatory reporting where the member\u2019s client is a regulated health professional and the member has reasonable grounds to believe that the client has sexually abused a patient/client); Mindfulness Awareness Practices (MAPS) for ADHD MAPS is an evidence based program specifically tailored for ADHD brains. With a gradual learning approach and shorter meditation sessions than most mindfulness programs, you will learn about and work on: Cultivating your ability to manage, direct, and sustain your attention Reducing impulsive emotional episodes Relating mindfully to difficult thoughts, experiences and emotions Reducing impulsivity, distractibility, and reactivity Improving your ability to stay in the present moment Relating to yourself with more kindness and self-compassion For more information, contact me at either 613-371-5715 or stop@topcounselling.com 8 weeks, in person Mindfulness at Centrepointe Covered by most extended health insurance, sliding scale available Co-facilitated with Karen Sutherland, MSW, RSW Karen Sutherland, MSW, RSW"
+        }
+      ],
+      "similarity_score": 0.9873050164715228
+    },
+    {
+      "url": "https://topcounselling.com/m/login?r=%2Fm%2Faccount",
+      "differences": [
+        {
+          "change_type": "insertion",
+          "text": "[ ](https://main--atopper-250902--aemysites.aem.page/ \" Sue Top Registered Psychotherapist\") [ ](https://main--atopper-250902--aemysites.aem.page/ \" Sue Top Registered Psychotherapist\") Sign In My Account Signed in as: filler@godaddy.com My Account Sign out "
+        },
+        {
+          "change_type": "equal",
+          "text": "Signed in as: filler@godaddy.com Account My Account Sign out Sign In My Account Account sign in Sign in to your account to access your profile, history, and any private pages you've been granted access to. "
+        },
+        {
+          "change_type": "insertion",
+          "text": "Email \u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022 "
+        },
+        {
+          "change_type": "equal",
+          "text": "Sign in Reset password"
+        }
+      ],
+      "similarity_score": 0.8260317533811805
+    }
+  ]
+}

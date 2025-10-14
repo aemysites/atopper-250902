@@ -1,6 +1,11 @@
+/* stylelint-disable no-descending-specificity */
 .columns > div {
   display: flex;
   flex-direction: column;
+  flex: 1 1 0;
+  max-width: 600px;
+  box-sizing: border-box;
+  justify-content: center;
 }
 
 .columns img {
@@ -45,14 +50,73 @@
   flex: 1 1 0;
   display: flex;
   flex-direction: column;
-  align-items: center; /* or left if you prefer */
+  align-items: center;
   min-width: 0;
 }
 
-/* Responsive: stack columns on narrow screens */
 @media (width <= 768px) {
   .columns.columns6.block.columns-2-cols > div {
     flex-direction: column;
     gap: 1.5rem;
+  }
+}
+
+
+.columns {
+  display: flex;
+  flex-direction: row;
+  align-items: center;       /* vertically center content of each column */
+  gap: 48px;                 /* horizontal space between columns */
+  justify-content: center;   /* horizontally center the columns if needed */
+  padding: 48px;             /* generous outer space */
+  background: #fff;          /* white background for the whole block */
+}
+
+.columns h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #222;
+  margin-bottom: 20px;
+}
+
+.columns h4 {
+  font-size: 1.1rem;
+  color: #444;
+  margin-bottom: 16px;
+}
+
+.columns ul {
+  margin-bottom: 16px;
+}
+
+.columns p, .columns li {
+  font-size: 1rem;
+  color: #444;
+}
+
+/* Image styling for right column */
+.columns > div:nth-child(2) img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+  filter: grayscale(100%);
+  border-radius: 8px;
+}
+
+/* Responsive stacking for mobile */
+@media (width <= 899px) {
+  .columns {
+    flex-direction: column;
+    gap: 24px;
+    padding: 24px;
+  }
+
+  .columns > div {
+    max-width: 100%;
+  }
+
+  .columns > div:nth-child(2) img {
+    margin-top: 20px;
   }
 }

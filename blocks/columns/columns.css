@@ -65,11 +65,14 @@
 .columns {
   display: flex;
   flex-direction: row;
-  align-items: center;       /* vertically center content of each column */
-  gap: 48px;                 /* horizontal space between columns */
-  justify-content: center;   /* horizontally center the columns if needed */
-  padding: 48px;             /* generous outer space */
-  background: #fff;          /* white background for the whole block */
+  align-items: stretch;
+  gap: 48px;
+  justify-content: flex-start;
+  padding: 0;
+  background: transparent;
+  width: 100%;
+  margin: 0;
+  box-sizing: border-box;
 }
 
 .columns h2 {
@@ -94,7 +97,6 @@
   color: #444;
 }
 
-/* Image styling for right column */
 .columns > div:nth-child(2) img {
   display: block;
   margin: 0 auto;
@@ -104,7 +106,6 @@
   border-radius: 8px;
 }
 
-/* Responsive stacking for mobile */
 @media (width <= 899px) {
   .columns {
     flex-direction: column;
@@ -119,4 +120,114 @@
   .columns > div:nth-child(2) img {
     margin-top: 20px;
   }
+}
+
+
+/* Responsive two-column layout for .columns block */
+
+/* Mobile: stack columns vertically */
+@media (width <= 899px) {
+  .columns {
+    flex-direction: column;
+  }
+}
+
+/* First descendant div is image column */
+.columns div:first-of-type {
+  flex: 0 1 40%;
+  width: 40%;
+  min-width: 0;
+  max-width: 40%;
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+
+/* If there's an image inside, make it fill the column */
+.columns div:first-of-type img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  margin: 0;
+  padding: 0;
+  border-radius: 0;
+}
+
+/* Second descendant div is text column */
+.columns div:not(:first-of-type) {
+  flex: 1 1 60%;
+  width: 60%;
+  min-width: 0;
+  max-width: 60%;
+  margin: 0;
+  padding: 0 0 0 32px;
+  background: #fff;
+  color: #444;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+
+@media (width <= 899px) {
+  .columns div:first-of-type,
+  .columns div:not(:first-of-type) {
+    width: 100%;
+    max-width: 100%;
+    flex-basis: 100%;
+    padding-left: 0;
+    margin-bottom: 0;
+  }
+}
+
+/* Headings in text column */
+.columns div:not(:first-of-type) h2,
+.columns div:not(:first-of-type) h3,
+.columns div:not(:first-of-type) h4 {
+  color: #444;
+  font-weight: bold;
+  margin-top: 16px;
+  margin-bottom: 8px;
+  line-height: 1.25;
+}
+
+.columns div:not(:first-of-type) h2 {
+  font-size: 18px;
+}
+
+.columns div:not(:first-of-type) h3,
+.columns div:not(:first-of-type) h4 {
+  font-size: 16px;
+}
+
+/* Body text and lists */
+.columns div:not(:first-of-type) p,
+.columns div:not(:first-of-type) ul,
+.columns div:not(:first-of-type) ol,
+.columns div:not(:first-of-type) a {
+  color: #444;
+  font-size: 14px;
+  margin-bottom: 12px;
+  margin-top: 0;
+  line-height: 1.6;
+}
+
+/* List styling in text column */
+.columns div:not(:first-of-type) ul,
+.columns div:not(:first-of-type) ol {
+  padding-left: 22px;
+  margin-bottom: 16px;
+}
+
+.columns div:not(:first-of-type) ul li,
+.columns div:not(:first-of-type) ol li {
+  margin-bottom: 0;
+  padding-left: 0;
+  list-style-type: disc;
 }
